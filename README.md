@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eugene</h1>
 <h3 align="center">A passionate Drone Operator, Engineer and Programmer</h3>
 
-- 🌱 I’m currently learning Programming **ALX school**
+- 🌱 I’m currently learning Programming in **ALX school**
 
 - 👨‍💻 All of my projects are available at [https://github.com/masilanzuki](https://github.com/masilanzuki)
 
